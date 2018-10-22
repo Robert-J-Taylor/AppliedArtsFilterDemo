@@ -1,0 +1,19 @@
+{
+  "name": "appliedartsdemoapp",
+  "version": "1.0.0",
+  "description": "demonstrating filtering/searching options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "connect-mongo": "^2.0.1",
+    "cors": "*",
+    "express": "^4.16.2",
+    "mongoose": "*"
+  },
+  "author": "Robert Taylor",
+  "license": "ISC"
+}
